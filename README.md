@@ -1,2 +1,2 @@
 # robot
-reposotory ini untuk berbagi pengalaman saya tentang robotika :)
+repository ini untuk berbagi pengalaman saya tentang robotika :)
